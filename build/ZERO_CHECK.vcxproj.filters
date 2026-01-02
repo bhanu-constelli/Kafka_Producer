@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Admin\Downloads\kafka producer\build\CMakeFiles\dd03e344bef8e0a3db498ae9b274a56b\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8FB777A5-CFEA-3EEF-8F8B-881D81D58261}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
